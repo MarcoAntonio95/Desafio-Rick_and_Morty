@@ -1,0 +1,6 @@
+module Pods_StoneChallengeUITests {
+  umbrella header "Pods-StoneChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
